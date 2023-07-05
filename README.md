@@ -26,4 +26,6 @@ Contributions are welcome! If you have any suggestions or want to improve the bo
 
 Credits:
 This Discord Password Generator bot was developed by drakola001.
+
+
 ![image](https://github.com/Drakola001/Discord-Bot-Password-Generator/assets/138621067/24ba1245-b9c9-44ce-bd22-6ff3a4801010)
