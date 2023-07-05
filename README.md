@@ -7,14 +7,14 @@ Prerequisites:
 
 Installation:
 1. Clone this repository to your local machine or download the code as a ZIP file.
-2. Install the required dependencies by running the following command:
-pip install discord.py
+2. Install the required dependencies by running the following command: pip install discord.py
+
 
 Configuration:
 1. Create a new Discord bot on the Discord Developer Portal (https://discord.com/developers/applications).
 2. Obtain the bot token and copy it.
-3. Open main.py And paste the bot token into the TOKEN variable:
-TOKEN = "your token here buddy"
+3. Open main.py And paste the bot token into the TOKEN variable: TOKEN = "your token here buddy"
+
 
 Usage:
 1. Invite the bot to your Discord server using the OAuth2 URL generated on the Discord Developer Portal.
